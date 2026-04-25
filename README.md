@@ -1,4 +1,4 @@
-# [larphub.xyz](https://larphub.xyz/) - Website
+# https://larpwallets.com - Website
 
 💸 Fake Shopify Store (For Larping & Pranks)
 

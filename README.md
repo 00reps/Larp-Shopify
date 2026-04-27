@@ -70,4 +70,4 @@ This project:
 * ❌ Does NOT process payments
 * ❌ Is NOT affiliated with Shopify
 
-It is purely a visual simulation for fun..
+It is purely a visual simulation for fun.

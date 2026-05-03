@@ -6,7 +6,7 @@ A fun and harmless fake Shopify store interface designed for larping, trolling, 
 This project mimics the look and feel of a real Shopify store — but does NOT process real orders or payments.
 
 ⚠️ This is strictly for entertainment purposes only. Do NOT use for scams or fraud.
-
+ 
 ⸻
 
 ✨ Features

@@ -18,7 +18,7 @@ This project mimics the look and feel of a real Shopify store — but does NOT p
 * 🎭 Perfect for pranks, larping
 
 ⸻
-
+ 
 📦 Use Cases
 
 * Prank your friends with a “successful store” 😎

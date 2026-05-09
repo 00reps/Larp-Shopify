@@ -14,7 +14,7 @@ This project mimics the look and feel of a real Shopify store — but does NOT p
 * 🛍️ Clean UI Shopify store copy
 * 💰 Fake products & prices
 * ⚡ Fast & lightweight
-* 📱 Works on iOS / Android
+* 📱 Works on iOS / Android 
 * 🎭 Perfect for pranks, larping
 
 ⸻

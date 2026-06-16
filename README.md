@@ -7,7 +7,7 @@ This project mimics the look and feel of a real Shopify store — but does NOT p
 
 ⚠️ This is strictly for entertainment purposes only. Do NOT use for scams or fraud.
  
-⸻
+⸻ 
 
 ✨ Features
 
